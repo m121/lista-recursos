@@ -1,6 +1,11 @@
-# Lista de recursos Colombia - CTO
+# Lista de recursos Colombia - Desarrollo
 
 Esta es una lista de recursos para que desarrolladores que quieran hacer sus productos . En ella encontrarán recursos a nivel mundial, la única condición es que almenos puedan ser usados desde Colombia.
+
+<p align="center">
+	<a href="/guiaconducta.md">Guía de conducta</a>&nbsp;&nbsp;&nbsp;
+	<a href="/contribuir.md">Guía de contribución</a>
+</p>
 
 ### Tabla de contenidos
 * [Seguridad](#seguridad)
@@ -26,6 +31,8 @@ Esta es una lista de recursos para que desarrolladores que quieran hacer sus pro
 * [Dragonjar](https://www.dragonjar.org/) - Comunidad de ciberseguridad
 
 ### Pasarelas de pago
+* [Epayco](https://epayco.co/) - Pasarela de pagos Colombiana
+
 
 ### Envio de SMS
 * [Hablame](https://www.hablame.co/) - Envio de SMS
