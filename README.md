@@ -32,10 +32,13 @@ Esta es una lista de recursos para que desarrolladores que quieran hacer sus pro
 
 ### Pasarelas de pago
 * [Epayco](https://epayco.co/) - Pasarela de pagos Colombiana
+* [PSE](https://www.pse.com.co/inicio) - Pasarela de pagos PSE
+* [Payoneer](https://www.payoneer.com/) - Pasarela de pago internacional
 
 
 ### Envio de SMS
 * [Hablame](https://www.hablame.co/) - Envio de SMS
+* [Twilio](https://www.twilio.com/) - Envio de SMS y otros servicios.
 
 ### Envio de correos transaccionales
 * [Mailgun](https://www.mailgun.com/) - Envio de correos transaccionales(10.000/ mes gratis)
@@ -59,7 +62,9 @@ Esta es una lista de recursos para que desarrolladores que quieran hacer sus pro
 
 ### Métricas
 * [Amplitude](https://amplitude.com/) - Métricas avanzadas de comportamiento de visitas
-
+* [mixpanel](https://mixpanel.com/) - Métricas avanzadas de comportamiento de visitas
+* [Heap](https://heap.io/) - Métricas avanzadas de comportamiento de visitas
+* [Kissmetrics](https://www.kissmetricshq.com/) - Métricas avanzadas de comportamiento de visitas
 ### Administración de tareas
 * [Jira](https://www.atlassian.com/es/software/jira) - Servicio de administración de proyectos
 * [Monday](https://monday.com/lang/es/) - Tableros de gestión de tareas entre ellas desarrollo
