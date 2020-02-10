@@ -54,6 +54,8 @@ Esta es una lista de recursos para que desarrolladores que quieran hacer sus pro
 ### Autentificación
 
 ### Hosting web
+* [Hosting fácil](https://www.hostingfacil.co/)  - Hosting colombiano
+* [Netlify](https://www.netlify.com/) - Hosting para webs estáticas de muy fácil uso
 
 ### Cloudhosting
 * [Amazon AWS](https://aws.amazon.com/es/) - Amazon services
